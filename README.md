@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-- 🎓 大学院生として公衆衛生に関する研究に取り組んでいます
+- 🎓 大学院生として研究に取り組んでいます
 - 🐍 **Python** でデータ分析・自動化
 - 📊 **Tableau** でデータの可視化
 - 🌐 **HTML / CSS** でWeb制作
@@ -39,6 +39,17 @@
 <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=sqlite&logoColor=00F7FF&labelColor=0f0c29"/>
 <img src="https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=00F7FF&labelColor=0f0c29"/>
 <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00F7FF&labelColor=0f0c29"/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-eosin.vercel.app/api?username=kwmtshr-py&show_icons=true&locale=ja&theme=dark&hide_border=true&bg_color=0f0c29&title_color=00F7FF&icon_color=00F7FF&text_color=8A8AFF" width="49%"/>
+<img src="https://github-readme-stats-eosin.vercel.app/api/top-langs/?username=kwmtshr-py&layout=compact&locale=ja&theme=dark&hide_border=true&bg_color=0f0c29&title_color=00F7FF&text_color=8A8AFF" width="39%"/>
 
 </div>
 
