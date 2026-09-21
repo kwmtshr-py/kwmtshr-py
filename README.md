@@ -8,6 +8,9 @@
 
 <img src="https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=00F7FF" />
 <img src="https://img.shields.io/badge/Tableau-0f0c29?style=for-the-badge&logo=tableau&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/HTML5-0f0c29?style=for-the-badge&logo=html5&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/CSS3-0f0c29?style=for-the-badge&logo=css3&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=sqlite&logoColor=00F7FF" />
 
 </div>
 
@@ -18,6 +21,8 @@
 - 🎓 大学院生として研究に取り組んでいます
 - 🐍 **Python** でデータ分析・自動化
 - 📊 **Tableau** でデータの可視化
+- 🌐 **HTML / CSS** でWeb制作
+- 🗄️ **SQL** でデータベース操作
 - 🌱 新しい技術を学ぶことに興味があります
 
 <br/>
@@ -29,6 +34,9 @@
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00F7FF&labelColor=0f0c29"/>
 <img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=00F7FF&labelColor=0f0c29"/>
 <img src="https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=tableau&logoColor=00F7FF&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00F7FF&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00F7FF&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=sqlite&logoColor=00F7FF&labelColor=0f0c29"/>
 <img src="https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=00F7FF&labelColor=0f0c29"/>
 <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00F7FF&labelColor=0f0c29"/>
 
