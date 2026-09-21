@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hiroki&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Graduate%20Student%20|%20Data%20%26%20Visualization&descAlignY=55&descColor=8A8AFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hiroki&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Graduate%20Student%20%7C%20Data%20%26amp%3B%20Visualization&descAlignY=55&descColor=8A8AFF" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=560&lines=Graduate+Student+%F0%9F%8E%93;Python+%C3%97+Data+Analysis;Tableau+%C3%97+Data+Visualization" alt="Typing SVG" />
 
