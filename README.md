@@ -49,8 +49,8 @@
 <div align="center">
 
 <a href="https://x.com/digital_phn"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00F7FF"/></a>
-<a href="https://facebook.com/hiroki.kawa.716"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00F7FF"/></a>
 <a href="https://note.com/hpevaluator"><img src="https://img.shields.io/badge/note-000000?style=for-the-badge&logo=note&logoColor=00F7FF"/></a>
+<a href="https://qiita.com/kwmtshr-py"><img src="https://img.shields.io/badge/Qiita-000000?style=for-the-badge&logo=qiita&logoColor=00F7FF"/></a>
 
 </div>
 
