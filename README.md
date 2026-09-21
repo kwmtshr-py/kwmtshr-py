@@ -38,14 +38,12 @@
 
 ## 🔗 Connect
 
-<!--
-  SNSやブログのリンクがあれば、以下のように追加してください（例）:
-  <a href="https://x.com/your_id"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00F7FF"/></a>
-  <a href="https://your-blog.example.com"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=00F7FF"/></a>
--->
-
 <div align="center">
-  <sub>Links coming soon...</sub>
+
+<a href="https://x.com/digital_phn"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00F7FF"/></a>
+<a href="https://instagram.com/hiroki.kawa.716"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00F7FF"/></a>
+<a href="https://note.com/hpevaluator"><img src="https://img.shields.io/badge/note-000000?style=for-the-badge&logo=note&logoColor=00F7FF"/></a>
+
 </div>
 
 <br/>
